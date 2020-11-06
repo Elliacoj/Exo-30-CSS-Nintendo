@@ -1,0 +1,167 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#haut {
+    height: 90px;
+    background-color: #e60012;
+    position: relative;
+}
+
+#gauche {
+    width: 110px;
+    background-color: #6f0009;
+    position: relative;
+}
+
+.hautlogo {
+    display: inline;
+}
+
+#logon {
+    position: absolute;
+    left: 18px;
+    top: 14px;
+    background-image: url("Capture.PNG");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 180px;
+    height: 100px;
+}
+
+#logosearch {
+    position: absolute;
+    right: 255px;
+    top: 18px;
+    background-image: url("Capture9.PNG");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 60px;
+}
+
+#logoshop {
+    position: absolute;
+    right: 183px;
+    top: 20px;
+    background-image: url("Capture7.PNG");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+}
+
+#logomario {
+    position: absolute;
+    right: 98px;
+    top: 20px;
+    background-image: url("Capture8.PNG");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 60px;
+}
+
+#connexion {
+    position: absolute;
+    right: 25px;
+    top: 40px;
+    font-size: 13px;
+}
+
+#ligneg {
+    position: absolute;
+    right: 250px;
+    top: 25px;
+    width: 2px;
+    height: 45px;
+    background-color: white;
+}
+#ligned {
+    position: absolute;
+    right: 170px;
+    top: 25px;
+    width: 2px;
+    height: 45px;
+    background-color: white;
+    z-index: 1;
+}
+
+span {
+    display: block;
+}
+
+#manette {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 115px;
+    padding-top: 15px;
+    font-size: 15px;
+    border-radius: 0 15px 0 0;
+    background-color: #e60012;
+}
+
+#jeux {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 85px;
+    padding-top: 20px;
+    font-size: 15px;
+    border-radius: 0 15px 0 0;
+    background-color: #e60012;
+}
+
+#nshop {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 100px;
+    padding-top: 15px;
+    font-size: 15px;
+    background-color: #e60012;
+}
+
+#assist {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 90px;
+    padding-top: 15px;
+    font-size: 15px;
+    background-color: #e60012;
+}
+
+#multi {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 50px;
+    padding-top: 15px;
+    font-size: 15px;
+    background-color: #e60012;
+}
+
+#points {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 45px;
+    padding-top: 15px;
+    font-size: 15px;
+    background-color: #e60012;
+}
+
+#fleche {
+    position: relative;
+    border: 1px solid #4f4e4e;
+    text-align: center;
+    height: 45px;
+    padding-top: 65px;
+    background-color: #be0010;
+}
